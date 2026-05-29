@@ -13,26 +13,26 @@ Celem projektu jest pokazanie, jak z surowych danych stworzyć **spójny, czysty
 
 ##  Struktura repozytorium
 
-/data
-    sales_data.csv
+**/data**  
+• sales_data.csv  
 
-/sql
-    01_staging.sql
-    02_data_quality_and_cleaning.sql
-    03_dim_tables.sql
-    04_fact_table.sql
-    05_analytical_view.sql
+**/sql**  
+• 01_staging.sql  
+• 02_data_quality_and_cleaning.sql  
+• 03_dim_tables.sql  
+• 04_fact_table.sql  
+• 05_analytical_view.sql  
 
-/screenshots
-    dim_category.png
-    dim_customer.png
-    dim_date.png
-    dim_product.png
-    fact_sales.png
-    staging.png
-    vw_sales_analysis.png
+**/screenshots**  
+• dim_category.png  
+• dim_customer.png  
+• dim_date.png  
+• dim_product.png  
+• fact_sales.png  
+• staging.png  
+• vw_sales_analysis.png  
 
-README.md
+**README.md**
 
 ---
 
